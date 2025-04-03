@@ -14,6 +14,8 @@ Para este ejercicio, he utilizado algunos datos de los ingresos y gastos que he 
 
 En el directorio `datasets_pec2_ej1_sankey_diagram` se encuentran los datos utilizados y el resultado de la visualización.
 
+![Sankey Diagram](datasets_pec2_ej1_sankey_diagram/sankey_diagram.png)
+
 ## TÉCNICA GRUPO II (Habituales y específicas): Parallel Coordinates Plot
 
 Para el segundo ejercicio, he utilizado los datos obtenidos de un estudio del sueño, con alrededor de 400 muestras, de la plataforma Kaggle.
